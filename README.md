@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MayankPant
 - 👀 I’m interested in learning more about computer science as a subject.
-- 🌱 I’m currently learning html , css and javascript
+- I am experianced in Java, Python and c and have worked on frameworks like hibernate.
+- 🌱 I’m currently learning sql and data visualization.
 - 💞️ I’m looking to collaborate on projects that you may want to share with me. 
 - 📫 How to reach me on linkedin using:-linkedin.com/in/mayankpant4512 or contact me using the mail:-mpant4512@gmail.com
 
